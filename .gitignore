@@ -2,4 +2,5 @@ examples/compiler-error
 examples/compiler-warning
 examples/gdb-warmup
 examples/segfault
+examples/buffer-overflow
 *.o
